@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Java Optifine Seamless Glass for v1.26+ (No Experiments Needed)",
+    "name": "Java Optifine Glass",
+    "uuid": "da3be6c0-781a-11ed-a1eb-0242ac120002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "description": "Optifine Glass Textures",
+      "type": "resources",
+      "uuid": "e3cb88a4-781a-11ed-a1eb-0242ac120002",
+      "version": [1, 0, 0]
+    }
+  ]
+}

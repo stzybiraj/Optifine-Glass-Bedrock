@@ -1,1 +1,0 @@
-# Optifine-Glass-Bedrock
